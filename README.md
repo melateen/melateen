@@ -12,7 +12,7 @@
   <img align="center" alt="JS Melissa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML Melissa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Melissa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"  alt="IMG Melissa" height="100" width="100" src="https://cdn.discordapp.com/attachments/803005572390846494/889286054278987816/download20210900190347.png">
+  <img align="right"  alt="IMG Melissa" height="100" width="100" src="https://avatars.githubusercontent.com/u/85970585?s=400&u=eb71ab331f948d29deafd25e0c04f2f71c60e618&v=4">
 </div>
     
   ##
